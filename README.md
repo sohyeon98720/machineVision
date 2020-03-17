@@ -7,3 +7,6 @@
 
 ---------------
 
+- 과제 1 에 대한 설명 : 히스토그램 스트레칭(histogram stretching) 구현
+
+- 과제 2 에 대한 설명 : 히스토그램 역투영(hitogram backprojection) 구현
