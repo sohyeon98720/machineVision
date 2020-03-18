@@ -10,3 +10,5 @@
 - 과제 1 에 대한 설명 : 히스토그램 스트레칭(histogram stretching) 구현
 
 - 과제 2 에 대한 설명 : 히스토그램 역투영(histogram backprojection) 구현
+
+- 과제 3 에 대한 설명 : 캐니엣지와 허프변환을 이용한 lane detection
