@@ -14,4 +14,4 @@
 
 - 과제 3 에 대한 설명 : 캐니엣지와 허프변환을 이용한 lane detection
 
-- 과제 4 에 대한 설명 : lane detection (improved version)
+- 과제 4 에 대한 설명 : 기울기를 이용한 더 정확한 lane detection (improved version) - 과제 3 참고
